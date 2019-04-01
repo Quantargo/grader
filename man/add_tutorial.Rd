@@ -35,5 +35,5 @@ home directory. If one of these files contains a call to
 warning message.
 }
 \seealso{
-\link[grader]{\code{view_tutorial}}
+\link[grader]{view_tutorial}
 }

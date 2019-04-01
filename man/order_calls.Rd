@@ -6,3 +6,6 @@
 \usage{
 order_calls(code)
 }
+\description{
+Order calls
+}

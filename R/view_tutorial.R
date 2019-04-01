@@ -80,7 +80,7 @@ view_tutorial <- function(name, package) {
 #' \code{view_tutorial()}, \code{add_tutorial} will override the call without a
 #' warning message.
 #'
-#' @seealso \link[grader]{\code{view_tutorial}}
+#' @seealso \link[grader]{view_tutorial}
 #'
 #' @param name A character string. The name of a tutorial saved in a package.
 #' @param package A character string. The name of the package that contains a
